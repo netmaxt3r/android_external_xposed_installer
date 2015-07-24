@@ -14,5 +14,4 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     libstickylist
 
 LOCAL_PACKAGE_NAME := XposedInstaller
-LOCAL_CERTIFICATE := platform
 include $(BUILD_PACKAGE) 
