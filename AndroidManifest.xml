@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="de.robv.android.xposed.installer"
     android:versionCode="37"
-    android:versionName="3.0 alpha4"
-    android:sharedUserId="android.uid.system">
+    android:versionName="3.0 alpha4" >
 
     <uses-sdk
         android:minSdkVersion="15"
