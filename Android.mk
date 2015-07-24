@@ -13,8 +13,6 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     supersulib \
     libstickylist
 
-LOCAL_PROGUARD_ENABLED := disabled
 LOCAL_PACKAGE_NAME := XposedInstaller
 LOCAL_CERTIFICATE := platform
-LOCAL_PRIVILEGED_MODULE := true
 include $(BUILD_PACKAGE) 
